@@ -17,19 +17,15 @@ I am a Security Specialist with a solid academic background (4 years in Informat
 
 **Offensive Security:**
 - **Network:** Nmap, Metasploit, Responder, CrackMapExec, Impacket
-- **Web:** Burp Suite, SQLmap, Gobuster, Nikto, OWASP Top 10
-- **Post-Exploitation:** Sliver C2, Mimikatz, Privilege Escalation (Linux/Windows)
+- **Web:** Burp Suite, OWASP ZAP, SQLmap, Gobuster, Nikto, OWASP Top 10
+- **Post-Exploitation:** Sliver C2, Viper C2, Mimikatz, Privilege Escalation (Linux/Windows)
 
 **System & Tech:**
-- **OS:** Parrot OS, Kali Linux, Whonix, Windows Server (AD)
-- **Languages:** Bash, Python (Automation), Java, SQL
+- **OS:** Windows, Parrot OS, Kali Linux, Whonix, Windows Server (AD)
+- **Languages:** Bash, Python (Automation), SQL
 - **DevOps:** Docker, Git, Networking (TCP/IP, DNS security)
 
----
 
-### 🏆 Certification & Platforms
-[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-HackerOne--404-red?style=flat&logo=TryHackMe)](https://tryhackme.com/p/Artur0103) 
-*(Замени ссылку на свой реальный профиль THM)*
 
 <p align="center">
   <img width="600" src="assets/github-snake.svg" alt="snake"/>
