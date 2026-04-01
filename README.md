@@ -1,12 +1,12 @@
 
 # Привет, меня зовут Артур!
-Backend разработчик
+Я специалист по информационной безопасности, исследователь в ИБ
 ---
 
 ### :man_technologist: Обо мне
 
-Я начинающий разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.Я учился программировать в течении 4 лет в университете. Мой путь в it начался с Университета имени Сатпаева, где я учился. После учебы был промежуток в пару месяцев, где я пробовал себя во многих направлениях, но больше всего меня зацепила backend разработка! Я начинал с HTML, но по-настоящему увлекся серверной разработкой...
-* 🌍 Я живу в Алматы
+Я начинающий специалист<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.Я учился в области информационной безопасности в течении 4 лет в университете. Мой путь в it начался с Университета имени Сатпаева, где я учился. После учебы был промежуток в пару месяцев, где я пробовал себя во многих направлениях, но больше всего меня зацепила ИБ сфера! Я начинал с HTML, но по-настоящему увлекся серверной разработкой...
+* 🌍 Я живу в Казахстане.
 * ✉️ Вы можете связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-MynzhasarovArtur-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Artur000_1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:artur.baik00@gmail.com)
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
