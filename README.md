@@ -9,8 +9,7 @@ I am a Security Specialist with a solid academic background (4 years in Informat
 - 🌍 Based in: Kazakhstan
 - 🎓 Education: Satbayev University (Information Security)
 - 🎯 Current Goal: OSCP Certification & Bug Bounty hunting
-- ✉️ Contact me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Artur000_1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:artur.baik000@gmail.com)
-
+- ✉️ Contact me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Artur000_1)
 ---
 
 ### 🛠️ Skills & Tools
